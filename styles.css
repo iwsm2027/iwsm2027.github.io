@@ -1,0 +1,584 @@
+:root {
+  --color-primary: #234C6A;
+  --color-secondary: #456882;
+  --color-accent: #FAB95B;
+  --color-bg: #FFFFFF;
+  --color-text: #1B3C53;
+}
+
+/* Fondo y texto */
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+/* Navbar */
+
+.navbar {
+  background-color: var(--color-primary);
+  border-bottom: 3px solid var(--color-accent);
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--color-accent) !important;
+}
+
+/* Links */
+
+a {
+  color: var(--color-secondary);
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+/* Botones */
+
+.btn-primary {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+  border-radius: 8px;
+}
+
+.btn-primary:hover {
+  background-color: var(--color-secondary);
+  border-color: var(--color-secondary);
+}
+
+.navbar {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+/* Irudia */
+
+
+.hero-image {
+  background-image: url("images/bilbo.png");
+  height: 650px;
+
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+
+  border-bottom: 4px solid var(--color-accent);
+  margin-bottom: 40px;
+  margin-top: -50px;
+}
+
+.hero-text {
+  position: relative;
+  z-index: 1;
+  color: white !important;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 160px;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.6);
+}
+
+.hero-image::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: transparent;
+}
+
+.hero-text,
+.hero-text p {
+  color: white !important;
+}
+
+.hero-register {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.register-button {
+  position: relative;
+  display: inline-block;
+  padding: 14px 30px;
+  background-color: white !important;
+  color: var(--color-primary) !important;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  border-radius: 8px;
+  z-index: 2;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.register-button:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.2) !important;
+  background-color: var(--color-accent) !important;
+  border-color: var(--color-accent) !important;
+}
+
+/* Logoak */ 
+
+.logo-row {
+  display: flex;
+  justify-content: center; /* centra los logos */
+  align-items: center;     /* alinea verticalmente */
+  gap: 40px;               /* espacio entre logos */
+  margin: 30px 0;          /* espacio arriba y abajo */
+}
+
+.logo {
+  height: 80px;            /* tamaño consistente */
+  object-fit: contain;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center; /* centra la imagen horizontalmente */
+  margin: 30px 0;          /* espacio arriba y abajo */
+}
+
+.logo {
+  height: 100px;            /* ajusta tamaño */
+  object-fit: contain;
+}
+
+/* Taulak */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #e5e7eb;
+}
+
+table thead th {
+  background-color: var(--color-primary) !important;
+  color: white !important;
+  font-weight: 600 !important;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f8fafc;
+}
+
+table tbody tr:hover {
+  background-color: #eef2ff;
+}
+
+
+/* Keynotes page cards */
+
+.speakers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 70px;
+  margin-top: 40px;
+}
+
+
+.speaker-card {
+  text-align: center;
+  transition: transform 0.2s ease;
+  padding: 20px 15px 30px 15px;
+}
+
+
+.speaker-card:hover {
+  transform: translateY(-4px);
+}
+
+.speaker-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 25px auto 14px auto;
+
+  border: 3px solid transparent;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.10);
+
+  transition: transform 0.25s ease,
+              box-shadow 0.25s ease,
+              border-color 0.25s ease;
+}
+
+.speaker-photo:hover {
+  transform: scale(1.04); /* un poco menos porque ya es grande */
+  border-color: #FAB95B;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.16);
+}
+
+.speaker-info {
+  padding: 12px 20px 22px 20px;
+}
+
+.speaker-name {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.speaker-affiliation {
+  color: #7b7b7b;
+  font-size: 0.98rem;
+  margin-bottom: 12px;
+}
+
+.speaker-title {
+  font-size: 0.95rem;
+  color: var(--color-primary);
+}
+
+/* Keynotes */
+
+
+.speaker-header {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: start;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.speaker-text {
+  max-width: 700px;
+}
+
+.speaker-photo-page {
+  background: transparent;
+  border: none;
+  padding: 0;
+  justify-self: end;
+}
+
+.speaker-photo-page img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;  /* ← ESTA ES LA CLAVE */
+  box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+  border: none;
+  display: block;
+}
+
+/* Keynotes home */
+
+.home-speakers-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 25px;
+  margin-top: 35px;
+  flex-wrap: wrap;
+}
+
+.home-speaker {
+  text-align: center;
+  flex: 1;
+  min-width: 150px;
+}
+
+.home-speaker-photo {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 50%;
+
+  border: 3px solid transparent;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.10);
+
+  transition: transform 0.25s ease,
+              border-color 0.25s ease;
+}
+
+.home-speaker-photo:hover {
+  transform: scale(1.05);
+  border-color: #FAB95B;
+}
+
+.home-speaker-name {
+  margin-top: 14px;
+  margin-bottom: 5px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.home-speaker-affiliation {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+/* Timeline */
+
+.timeline {
+  border-left: 3px solid var(--color-primary);
+  margin-top: 30px;
+  padding-left: 25px;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  margin-bottom: 25px;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -34px;
+  top: 5px;
+  width: 14px;
+  height: 14px;
+  background-color: var(--color-primary);
+  border-radius: 50%;
+}
+
+.timeline-time {
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.timeline-content {
+  background: white;
+  padding: 14px 16px;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+.session-title {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.session-info {
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: var(--color-primary);
+  color: white !important;
+}
+
+.nav-tabs .nav-link {
+  color: var(--color-primary);
+}
+
+details {
+  margin-top: 8px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 0.8rem;
+  color: var(--color-primary);
+}
+
+details ul {
+  margin-top: 8px;
+}
+
+/* Atzera kontaketa */
+
+.countdown-container {
+text-align: center;
+margin: 50px 0;
+}
+
+.countdown-title {
+font-size: 2rem;
+margin-bottom: 20px;
+color: var(--color-accent);
+font-weight: 500;
+}
+
+.countdown-grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+gap: 20px;
+max-width: 600px;
+margin: auto;
+}
+
+.countdown-box {
+background: white;
+border-radius: 10px;
+padding: 20px;
+box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+}
+
+.countdown-box span {
+font-size: 2.5rem;
+font-weight: 700;
+color: var(--color-accent);
+display: block;
+}
+
+.countdown-box p {
+margin-top: 5px;
+font-size: 0.9rem;
+text-transform: uppercase;
+letter-spacing: 1px;
+color: #6b7280;
+}
+
+/* Icons */
+
+.date-icon i {
+  font-size: 1.8rem;
+  color: var(--color-primary);
+}
+
+
+
+/* Committees */
+
+
+
+.committee-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  margin-top: 25px;
+}
+
+.committee-grid h3 {
+  padding-bottom: 25px;
+}
+
+
+.committee-person {
+  padding: 10px 0;
+  border-bottom: 1px solid #ececec;
+}
+
+.committee-name {
+  display: inline-block;
+  width: 260px;   
+  font-weight: 500;
+}
+
+.committee-country {
+  color: #777;
+}
+
+@media (max-width: 768px) {
+
+  .committee-grid {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+
+  .committee-name {
+    width: 180px;
+  }
+
+}
+
+/* Short Course */
+
+.course-title {
+  margin-top: 18px;
+  font-size: 1.75rem;
+  color: var(--color-primary);
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.course-label {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #777;
+  font-weight: 600;
+}
+
+.short-course-home {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 35px;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.short-course-image {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+}
+
+.short-course-label {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #777;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+/* Key Dates */
+.key-dates-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(200px, 280px));
+  gap: 12px;
+  justify-content: center;
+  margin: 20px 0 40px 0;
+}
+
+.date-card {
+  background: white;
+  border: 0.5px solid #e5e7eb;
+  border-left: 3px solid var(--color-primary);
+  border-radius: 0 10px 10px 0;
+  padding: 1rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.date-card .date-icon {
+  font-size: 1.3rem;
+  color: var(--color-accent);
+}
+
+.date-card .date-event {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.date-card .date-when {
+  font-size: 0.88rem;
+  color: #6b7280;
+}
+
+@media (max-width: 500px) {
+  .key-dates-grid {
+    grid-template-columns: 1fr;
+  }
+}
+

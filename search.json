@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "program/short_course.html",
+    "href": "program/short_course.html",
+    "title": "\nBenjamin Bolker\n",
+    "section": "",
+    "text": "McMaster University\n\n\nShort Course Title Generalized Mixed Models: Basics and New Frontiers"
+  },
+  {
+    "objectID": "program/short_course.html#short-bio",
+    "href": "program/short_course.html#short-bio",
+    "title": "\nBenjamin Bolker\n",
+    "section": "Short bio",
+    "text": "Short bio\nBenjamin Bolker, PhD, is a professor in the departments of Mathematics & Statistics and Biology at McMaster University.\nProfessor Bolker has broad interests in computational statistics and population biology including mixed models, infectious disease dynamics, evolution of virulence, animal movement, and spatial population dynamics. He has published more than 100 peer-reviewed publications (including one listed in the top 25 most-cited papers of the 21st century) as well the book Ecological Models and Data in R, which has been a gateway to advanced statistical modeling for many ecologists, and (with Dr. Marta Wayne) a Very Short Introduction to Infectious Disease (Oxford University Press) for general readers.\nHe is also well known for supporting researchers using mixed models and doing statistical analyses in ecology through his development and maintenance of widely used R packages (lme4, glmmTMB, bbmle), with millions of downloads and tens of thousands of literature citations, as well as answering questions in forums such as Stack Overflow. He directs the School of Computational Science and Engineering at McMaster and serves as associate chair (graduate) for Mathematics. He is a long-time associate editor for the leading ecology and evolution journal American Naturalist."
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_faes.html",
+    "href": "program/keynotes_info/keynote_faes.html",
+    "title": "\nChristel Faes\n",
+    "section": "",
+    "text": "Universiteit Hasselt"
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_faes.html#short-bio",
+    "href": "program/keynotes_info/keynote_faes.html#short-bio",
+    "title": "\nChristel Faes\n",
+    "section": "Short bio",
+    "text": "Short bio\nThis information will be incorporated as soon as possible."
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_martinez.html",
+    "href": "program/keynotes_info/keynote_martinez.html",
+    "title": "\nJoaquín Martínez-Minaya\n",
+    "section": "",
+    "text": "Universitat Poltècnica de València"
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_martinez.html#short-bio",
+    "href": "program/keynotes_info/keynote_martinez.html#short-bio",
+    "title": "\nJoaquín Martínez-Minaya\n",
+    "section": "Short bio",
+    "text": "Short bio\nMy name is Joaquín Martínez-Minaya, and I am an Associate Professor in the Department of Applied Statistics and Operational Research and Quality at the Universitat Politècnica de València (Spain). My research lies in the field of Applied Bayesian Statistics, where I develop statistical methods for the analysis of multivariate, compositional, spatial and spatio-temporal data. My work combines methodological developments in Bayesian inference with applications in environmental health, ecology and biomedicine. I am interested in hierarchical models, latent Gaussian models, compositional data analysis, measurement agreement, model assessment, validation and predictive performance, and species distribution modelling. From a computational perspective, my research relies on Bayesian inference techniques, especially Integrated Nested Laplace Approximation (INLA) and Hamiltonian Monte Carlo methods."
+  },
+  {
+    "objectID": "program/keynotes.html",
+    "href": "program/keynotes.html",
+    "title": "Keynotes",
+    "section": "",
+    "text": "Rhian Daniel\n\n\nCardiff University\n\n\n\n\n  \n\n\nChristel Faes\n\n\nUniversiteit Hasselt\n\n\n\n\n  \n\n\nJoaquín Martínez-Minaya\n\n\nUniversitat Poltècnica de València\n\n\n\n\n  \n\n\nVicente Núñez-Antón\n\n\nEuskal Herriko Unibertsitatea\n\n\n\n\n  \n\n\nAna-Maria Staicu\n\n\nNorth Carolina State University"
+  },
+  {
+    "objectID": "program/abstracts/speaker1.html",
+    "href": "program/abstracts/speaker1.html",
+    "title": "Title 1",
+    "section": "",
+    "text": "Author: Author 1 – University 1\nSession: Contributed Session 1\nTime: 11:30"
+  },
+  {
+    "objectID": "program/abstracts/speaker1.html#abstract",
+    "href": "program/abstracts/speaker1.html#abstract",
+    "title": "Title 1",
+    "section": "Abstract",
+    "text": "Abstract\nblablabla"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IWSM2027",
+    "section": "",
+    "text": "International Workshop on Statistical Modelling\n\n\nBilbao 2027\nThe Department of Mathematics of the University of the Basque Country (EHU) is pleased to host the 41st International Workshop on Statistical Modelling (IWSM) at the Bizkaia Aretoa, Bilbao, Spain, from Sunday 18th July to Friday 23rd July 2027.\nIWSM is the world’s leading workshop dedicated to statistical modelling and one of the main activities of the Statistical Modelling Society. The workshop focuses on novel statistical modelling developments aimed at solving real-world problems. The atmosphere at the workshop is friendly and supportive, and, with no parallel sessions, IWSM offers an excellent opportunity for knowledge exchange among all participants.\nSubmissions to the workshop take the form of 4-page proceedings papers, enabling participants to share their ideas in sufficient detail. All papers are subject to a rigorous review process to ensure high-quality contributions in both the oral and poster sessions. We particularly encourage submissions from postgraduate students and early-career researchers."
+  },
+  {
+    "objectID": "index.html#key-dates",
+    "href": "index.html#key-dates",
+    "title": "IWSM2027",
+    "section": "Key Dates",
+    "text": "Key Dates\n\n  \n    \n    Short Course\n    Sunday, 18th July 2027\n  \n  \n    \n    Conference\n    Monday 19th – Friday 23rd July 2027"
+  },
+  {
+    "objectID": "index.html#short-course",
+    "href": "index.html#short-course",
+    "title": "IWSM2027",
+    "section": "Short Course",
+    "text": "Short Course\n\n\n  \n\n\n\nSHORT COURSE\n\n\nGeneralized Mixed Models: Basics and New Frontiers\n\n\nInstructor: Benjamin Bolker McMaster University\n\n Learn More"
+  },
+  {
+    "objectID": "index.html#keynote-speakers",
+    "href": "index.html#keynote-speakers",
+    "title": "IWSM2027",
+    "section": "Keynote Speakers",
+    "text": "Keynote Speakers\n\n\n  \n\nRhian Daniel\n\n\nCardiff University\n\n\n\n  \n\nChristel Faes\n\n\nUniversiteit Hasselt\n\n\n\n  \n\nJoaquín Martínez-Minaya\n\n\nUniversitat Politècnica de València\n\n\n\n  \n\nVicente Núñez-Antón\n\n\nEuskal Herriko Unibertsitatea\n\n\n\n  \n\nAna-Maria Staicu\n\n\nNorth Carolina State University"
+  },
+  {
+    "objectID": "location/accommodation.html",
+    "href": "location/accommodation.html",
+    "title": "Accommodation",
+    "section": "",
+    "text": "Bilbao offers a wide range of hotels in various categories (Figure 1 shows some of them). Given the high number of tourists in July, it is highly recommended to book your accommodation as early as possible. We are currently in contact with various hotels in the city to secure discounts for conference attendees. Additionally, we have reached out to university residences to reserve rooms at significantly lower rates than those of hotels. Information about potential discounts for conference attendees will be available as soon as possible.\n\n\n\n\n\n\n\nFigure 1: Some of the hotels in Bilbao (provided by Bilbao Convention Bureau)."
+  },
+  {
+    "objectID": "location/city_and_venue.html",
+    "href": "location/city_and_venue.html",
+    "title": "Welcome to Bilbao!",
+    "section": "",
+    "text": "Bilbao, located in northern Spain, is the largest city in the province of Biscay and the Basque Country. It is known for successfully blending traditional Basque culture with a modern vision for the future, making it a must-visit for design and culture enthusiasts. The city is surrounded by green hills and is close to the coast.\nBilbao has a strong devotion to gastronomy, with a tradition of celebrating any occasion around good food and drink. There are three main areas for “poteo” (bar hopping) and “pintxos” (Basque tapas): Casco Viejo, Indautxu (García Rivero or Licenciado Pozas streets), and Ensanche (Ledesma or Diputación streets). Each bar offers a unique style, and attendees are encouraged to explore them. Bilbao is a relatively small city and can easily be explored on foot, without the need for public transport."
+  },
+  {
+    "objectID": "location/city_and_venue.html#university-of-the-basque-country-ehu",
+    "href": "location/city_and_venue.html#university-of-the-basque-country-ehu",
+    "title": "Welcome to Bilbao!",
+    "section": "University of the Basque Country (EHU)",
+    "text": "University of the Basque Country (EHU)\nThe University of the Basque Country, officially known as Euskal Herriko Unibertsitatea (EHU), stands as the most important higher education institution in the Basque Country. As a public university with deep roots in Basque culture, it has trained over 300 000 graduates across all areas of knowledge and is responsible for \\(70\\%\\) of the research carried out in the region. The UPV/EHU is characterized by its distributed structure, spanning three main campuses — Bizkaia, Gipuzkoa, and Araba — each corresponding to one of the three Basque provinces. This enables it to offer a wide array of over 70 degrees and 150 graduate programs, with teaching conducted in Basque, Spanish, and an increasing number of courses in English, reflecting its commitment to internationalization.\nThe Faculty of Science and Technology is one of the largest centers within the EHU, located on the main Campus of Biscay in Leioa, just 14 km from Bilbao. It is a vibrant hub for scientific and technological education and research, offering a diverse range of undergraduate and postgraduate programs, including Biology, Biochemistry, Biotechnology, Chemistry, Chemical Engineering, Electronic Engineering, Geology, Mathematics, and Physics, along with a double degree in Electronic Engineering and Physics. Within this esteemed faculty, the Department of Mathematics plays a crucial role. It encompasses teaching and research across all areas of mathematics, from pure mathematics to applied mathematics, statistics, and operational research. The department is actively involved in both undergraduate and graduate studies, contributing significantly to the academic and research landscape of the university and beyond."
+  },
+  {
+    "objectID": "location/city_and_venue.html#conference-venue",
+    "href": "location/city_and_venue.html#conference-venue",
+    "title": "Welcome to Bilbao!",
+    "section": "Conference Venue",
+    "text": "Conference Venue\nThe conference will be held at the Bizkaia Aretoa (Figure 1), part of the University of the Basque Country UPV/EHU. This L-shaped building is situated in an emblematic area of Bilbao, offering views of the estuary and the Guggenheim Museum, right in the heart of Avenida de Abandoibarra.\n\n\n\n\n\n\n\nFigure 1: Bizkaia Aretoa building\n\n\n\n\nThe Bizkaia Aretoa spans over 9 000 square meters across six floors. The ground floor, covering 2 300 square meters, houses the Mitxelena Auditorium (Figure 2), which can accommodate 441 people. It also includes a large 400 square meter hall, two meeting rooms, and a spacious shop. The first, second, and third floors each have over 1 000 square meters of space, featuring two additional auditoriums for 161 and 66 people, five open spaces for exhibitions, and offices for various EHU services.\nOral presentations will be held in the Mitxelena Auditorium.\n\n\n\n\n\n\n\nFigure 2: Mitxelena Auditorium\n\n\n\n\nCoffee breaks and poster sessions will be held in Axular and Chillida (Figure 3 and Figure 4) exhibition galleries. The rooms Barandiaran and Elhuyar are also booked for the EC Meetings and Scientific Committee meetings (Figure 5). If the weather permits, we can also enjoy the coffee break on the terrace (Figure 6).\n\n\n\n\n\n\n\nFigure 3: Axular Exhibition Gallery (110 \\(m^2\\))\n\n\n\n\n\n\n\n\n\nFigure 4: Chillida Exhibition Gallery (220 \\(m^2\\))\n\n\n\n\n\n\n\n\n\nFigure 5: Barandiaran (on the left) can accommodate up to 16 people. The Elhuyar room (on the right), can accommodate up to 24 people.\n\n\n\n\n\n\n\n\n\nFigure 6: The Terrace at the Bizkaia Aretoa\n\n\n\n\nThe map in Figure 7 and the picture in Figure 8 show the venue’s location, nearby points of interest, and its connections via metro and tram.\n\n\n\n\n\n\n\n\nFigure 7: Map of the location of the venue and connections (provided by Bilbao Convention Bureau).\n\n\n\n\n\n\n\n\n\n\nFigure 8: Bizkaia Aretoa and other points of interest"
+  },
+  {
+    "objectID": "location/general_info.html",
+    "href": "location/general_info.html",
+    "title": "General Information",
+    "section": "",
+    "text": "Bilbao is the most well-connected city in northern Spain.\n\n\nBilbao Airport (IATA: BIO) is the most important airport in the region, offering direct flights to major cities in Spain and many European destinations, as well as a direct flight to New York (EWR). The airport is only 15 km from Bilbao city center, a 10-minute car ride. A bus service runs every 30 minutes from the city center, and taxis from the airport to downtown Bilbao cost approximately‚ 25 - 30 euros.\nAirlines flying from Bilbao Airport include:\n\nMajor Carriers: Lufthansa, Air France, Iberia, Air Europa, British Airways, KLM, TAP Portugal, Swiss, Turkish Airlines, United Airlines, Brussels Airlines, Aer Lingus.\nLow-Cost Carriers: Vueling, Volotea, easyJet, Eurowings, Wizz Air, Ryanair (from Santander).\n\nBilbao Airport has direct flights to over 60 destinations in 20 countries. Some popular direct flight destinations from Europe include: Amsterdam, Basel, Berlin, Bristol, Brussels, Copenhagen, Cork, Dublin, Dusseldorf, Edinburgh, Eindhoven, Frankfurt, Geneva, Hamburg, Istanbul, Lisbon, London (Gatwick, Heathrow), Manchester, Milan, Munich, Naples, Oslo, Paris (Charles de Gaulle, Orly), Porto, Prague, Rome, Stuttgart, Venice, Vienna, and Zurich.\nDirect flights from Spain include: Alicante, Barcelona, Fuerteventura, Gran Canaria, Granada, Ibiza, Lanzarote, Madrid, Malaga, Menorca, Palma de Mallorca, Santiago de Compostela, Seville, Tenerife, and Valencia.\nSantander Airport (SDR), located about 90 km away, is another viable option, particularly for Ryanair flights. While there are currently no direct flights from Santander to Bilbao, there are good bus connections available.\n\n\n\n\n\n\n\nFigure 1: Map of the connections by plane (provided by Bilbao Convention Bureau).\n\n\n\n\n\n\n\nThanks to its strategic location, Bilbao enjoys strong transport links by rail and motorway with major cities throughout Spain and Europe. In addition, its port provides maritime connections with the United Kingdom.\n\n\n\n\n\n\n\nFigure 2: Map of the connections by rail and motorways (provided by Bilbao Convention Bureau)."
+  },
+  {
+    "objectID": "location/general_info.html#traveling-to-bilbao",
+    "href": "location/general_info.html#traveling-to-bilbao",
+    "title": "General Information",
+    "section": "",
+    "text": "Bilbao is the most well-connected city in northern Spain.\n\n\nBilbao Airport (IATA: BIO) is the most important airport in the region, offering direct flights to major cities in Spain and many European destinations, as well as a direct flight to New York (EWR). The airport is only 15 km from Bilbao city center, a 10-minute car ride. A bus service runs every 30 minutes from the city center, and taxis from the airport to downtown Bilbao cost approximately‚ 25 - 30 euros.\nAirlines flying from Bilbao Airport include:\n\nMajor Carriers: Lufthansa, Air France, Iberia, Air Europa, British Airways, KLM, TAP Portugal, Swiss, Turkish Airlines, United Airlines, Brussels Airlines, Aer Lingus.\nLow-Cost Carriers: Vueling, Volotea, easyJet, Eurowings, Wizz Air, Ryanair (from Santander).\n\nBilbao Airport has direct flights to over 60 destinations in 20 countries. Some popular direct flight destinations from Europe include: Amsterdam, Basel, Berlin, Bristol, Brussels, Copenhagen, Cork, Dublin, Dusseldorf, Edinburgh, Eindhoven, Frankfurt, Geneva, Hamburg, Istanbul, Lisbon, London (Gatwick, Heathrow), Manchester, Milan, Munich, Naples, Oslo, Paris (Charles de Gaulle, Orly), Porto, Prague, Rome, Stuttgart, Venice, Vienna, and Zurich.\nDirect flights from Spain include: Alicante, Barcelona, Fuerteventura, Gran Canaria, Granada, Ibiza, Lanzarote, Madrid, Malaga, Menorca, Palma de Mallorca, Santiago de Compostela, Seville, Tenerife, and Valencia.\nSantander Airport (SDR), located about 90 km away, is another viable option, particularly for Ryanair flights. While there are currently no direct flights from Santander to Bilbao, there are good bus connections available.\n\n\n\n\n\n\n\nFigure 1: Map of the connections by plane (provided by Bilbao Convention Bureau).\n\n\n\n\n\n\n\nThanks to its strategic location, Bilbao enjoys strong transport links by rail and motorway with major cities throughout Spain and Europe. In addition, its port provides maritime connections with the United Kingdom.\n\n\n\n\n\n\n\nFigure 2: Map of the connections by rail and motorways (provided by Bilbao Convention Bureau)."
+  },
+  {
+    "objectID": "program/committees.html",
+    "href": "program/committees.html",
+    "title": "Committees",
+    "section": "",
+    "text": "Scientific Committee\n\nMaría Xosé Rodríguez Álvarez Spain\n\n\nIrantzu Barrio Beraza Spain\n\n\nInmaculada Arostegui Spain\n\n\nRiccardo De Bin Norway\n\n\nJan van Kassteele Netherlands\n\n\nHelga Wagner Austria\n\n\nDae-Jin Lee Spain\n\n\nVanda Inácio UK\n\n\nAndreas Mayr Germany\n\n\nFernanda de Bastiani Brazil\n\n\nJutta Gampe Germany\n\n\nLuís Filipe Meira Machado Portugal\n\n\nDavid Conesa Guillén Spain\n\n\nAlessandra Menafoglio Italy\n\n\nEmi Tanaka Australia\n\n\nVanessa Didelez Germany\n\n\n\nOrganizing Committee\n\nIrantzu Barrio Beraza Spain\n\n\nMaría Xosé Rodríguez Álvarez Spain\n\n\nInmaculada Arostegui Spain\n\n\nAmaia Iparragirre Spain\n\n\nJosu Najera Spain\n\n\nLeire Garmendia Spain\n\n\nLeticia Hernando Spain\n\n\nAna Valle Spain\n\n\nItziar Irigoien Spain\n\n\nTelmo Perez-Izquierdo Spain\n\n\nLander Rodríguez-Idiazabal Spain\n\n\nIñigo Urteaga Spain\n\n\nJaione Etxeberria Spain\n\n\nRiccardo De Bin Norway\n\n\nJan van Kassteele Netherlands"
+  },
+  {
+    "objectID": "program/social.html",
+    "href": "program/social.html",
+    "title": "Social Program",
+    "section": "",
+    "text": "Informal gathering (Sunday Evening): To be confirmed.\nWelcome reception: To be confirmed.\nConference meals: Meals will be served on the first floor of the Iberdrola Tower, which is less than 100 meters walking distance from the conference venue. Private dining rooms are also available for Executive Committee or Journal meetings throughout the week.\nConference Dinner: Various options for the conference dinner are being considered in the center of Bilbao, with dining halls capable of seating 200 people. For a previous event of similar size, the dinner was held at Abba Euskalduna Hotel. In the case of more than 200 participants, other options would be considered, such as the Euskalduna Conference Centre."
+  },
+  {
+    "objectID": "program/social.html#social-events",
+    "href": "program/social.html#social-events",
+    "title": "Social Program",
+    "section": "",
+    "text": "Informal gathering (Sunday Evening): To be confirmed.\nWelcome reception: To be confirmed.\nConference meals: Meals will be served on the first floor of the Iberdrola Tower, which is less than 100 meters walking distance from the conference venue. Private dining rooms are also available for Executive Committee or Journal meetings throughout the week.\nConference Dinner: Various options for the conference dinner are being considered in the center of Bilbao, with dining halls capable of seating 200 people. For a previous event of similar size, the dinner was held at Abba Euskalduna Hotel. In the case of more than 200 participants, other options would be considered, such as the Euskalduna Conference Centre."
+  },
+  {
+    "objectID": "program/social.html#local-excursions",
+    "href": "program/social.html#local-excursions",
+    "title": "Social Program",
+    "section": "Local excursions",
+    "text": "Local excursions\nAttendees will have the opportunity to participate in various local excursions to experience the rich culture and stunning landscapes of the Basque Country. We plan to offer two to three exciting options:\n\nVisit to a Txakoli Winery and San Juan de Gaztelugatxe: This excursion will combine the natural beauty of San Juan de Gaztelugatxe with a taste of local winemaking tradition.\n\nSan Juan de Gaztelugatxe: A breathtaking islet on the Basque coast (Figure 1), famous for its hermitage dedicated to Saint John the Baptist. Connected to the mainland by a winding stone bridge, visitors can ascend 241 steps to reach the hermitage, ringing its bell three times for good luck and to make a wish. The site offers spectacular views of the Bay of Biscay.\n\n\n\n\n\n\n\n\nFigure 1: San Juan de Gaztelugatxe\n\n\n\n\n\nTxakoli Tasting: Following the visit to Gaztelugatxe, attendees will enjoy a tour and tasting at a local txakoli winery. Txakoli (pronounced “cha-ko-LEE”) is a unique, lightly carbonated white wine typical of the Basque Country. Its history dates back to Roman times, with its current form developing in the 16th and 17th centuries. Traditionally, a homemade wine consumed in rural farmhouses, it gained popularity in bars by the late 19th century. The quality and authenticity of Txakoli have been protected by Denominations of Origin (DOs) since the late 1980s, such as Getariako Txakolina, Bizkaiko Txakolina, and Arabako Txakolina. Made primarily from indigenous grape varieties like Hondarrabi Zuri, it is characterized by its freshness, acidity, and light fruity notes, making it an ideal pairing for local seafood and pintxos. It is traditionally served chilled and poured from a height to enhance its effervescence.\n\nBoat Trip along the Ría de Bilbao: Attendees can experience Bilbao from a unique perspective with a relaxing boat trip along the Ría del Nervión (Figure 2).\n\n\n\n\n\n\n\nFigure 2: Boat Trip along the Ría del Nervión with Bilboats (photo: Bilboats).\n\n\n\n\nGuided Tour of the Guggenheim Museum Bilbao: Attendees can immerse themselves in the artistic heart of Bilbao with a guided tour of the iconic Guggenheim Museum (Figure 3). Designed by Frank Gehry, this architectural masterpiece houses an impressive collection of modern and contemporary art. A guided tour typically lasts between 1.5 to 2 hours and provides in-depth information about the building’s design, the artworks on display, and the museum’s significance to Bilbao’s urban regeneration.\n\n\n\n\n\n\n\nFigure 3: Guggenheim Bilbao Museum\n\n\n\n\n\nFurther details regarding booking, specific timings, and pricing for these excursions will be provided soon."
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_daniel.html",
+    "href": "program/keynotes_info/keynote_daniel.html",
+    "title": "\nRhian Daniel\n",
+    "section": "",
+    "text": "Cardiff University"
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_daniel.html#short-bio",
+    "href": "program/keynotes_info/keynote_daniel.html#short-bio",
+    "title": "\nRhian Daniel\n",
+    "section": "Short bio",
+    "text": "Short bio\nThis information will be incorporated as soon as possible."
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_nunez.html",
+    "href": "program/keynotes_info/keynote_nunez.html",
+    "title": "\nVicente Núñez-Antón\n",
+    "section": "",
+    "text": "Euskal Herriko Unibertsitatea"
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_nunez.html#short-bio",
+    "href": "program/keynotes_info/keynote_nunez.html#short-bio",
+    "title": "\nVicente Núñez-Antón\n",
+    "section": "Short bio",
+    "text": "Short bio\nProfessor of Statistics at University of the Basque Country (UPV/EHU), Spain, he received an M.S. and a Ph.D. in Statistics from University of Iowa. He has published on longitudinal data analysis, pseudo-panel data analysis, survival data, nonparametric estimation methods, goodness-of-fit testing, health-related quality-of-life methods, order-restricted testing, spatial statistics, and overdispersion modeling approaches. Jointly with Dale Zimmerman, Philippe Vieu, and Frédéric Ferraty, he has authored books on longitudinal data analysis and nonparametric regression methods.\nHe has served as Associate Editor for Applied Statistics, Methodology: European Journal of Research Methods for the Behavioral and Social Sciences, and Statistical Modelling. He is currently Coordinating Editor for Statistical Modelling. He was one of the founders and principal investigators of the BIOSTATNET Network in Biostatistics. He was also a founder of the Statistical Modelling Society and served as a member of its Board of Trustees, Executive Committee, and Secretary.\nHe also served as Chair of the Subcommittee of the ASA Committee on Nominations for International Representative to its Board of Directors. In addition, he has been a member of the International Program Committee (IPC) for the International Biometric Conferences (IBC) in Canada, Ireland, and Japan, and Chair of the IPC for the IBC in Brazil. He served on the IBS Executive Board, the IBS Representative Council, and the IBS Conference Advisory Committee, which he also chaired. More recently, he served as IBS Secretary and Treasurer.\nHe has given invited talks at universities in Belgium, Germany, France, Italy, the USA, Mexico, Colombia, Chile, Cuba, Ecuador, the Netherlands, and Spain, as well as at various meetings and conferences in the field of Statistics."
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_staicu.html",
+    "href": "program/keynotes_info/keynote_staicu.html",
+    "title": "\nAna-Maria Staicu\n",
+    "section": "",
+    "text": "North Carolina State University"
+  },
+  {
+    "objectID": "program/keynotes_info/keynote_staicu.html#short-bio",
+    "href": "program/keynotes_info/keynote_staicu.html#short-bio",
+    "title": "\nAna-Maria Staicu\n",
+    "section": "Short bio",
+    "text": "Short bio\nThis information will be incorporated as soon as possible."
+  }
+]
