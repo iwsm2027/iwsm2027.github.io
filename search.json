@@ -25,7 +25,7 @@
     "href": "program/keynotes_info/keynote_faes.html#short-bio",
     "title": "\nChristel Faes\n",
     "section": "Short bio",
-    "text": "Short bio\nThis information will be incorporated as soon as possible."
+    "text": "Short bio\nChristel Faes is a Belgian biostatistician and Full Professor of Statistics at the Center for Statistics and the Data Science Institute at Hasselt University. She obtained an MSc in Mathematics from the University of Antwerp in 2000 and a PhD in Statistics from Hasselt University in 2004. Her research connects statistical methodology with questions in public health, environmental health, and disease prevention. She works in the field of spatial and spatio-temporal statistics, developing methods that help reveal how health risks vary across regions, populations, and time.\nHer work has contributed to COVID-19 modelling, climate-health research, cancer surveillance, and the assessment of heat-related health impacts. During the COVID-19 pandemic, she contributed statistical modelling expertise to the Belgian response, and she advises Flemish initiatives on climate and health. She has published more than 230 peer-reviewed articles and has supervised numerous PhD and master’s students. In addition to her research, she serves as UHasselt Director of the Interuniversity Institute of Biostatistics, a joint research institute of UHasselt and KU Leuven."
   },
   {
     "objectID": "program/keynotes_info/keynote_martinez.html",
@@ -81,7 +81,7 @@
     "href": "index.html#short-course",
     "title": "IWSM2027",
     "section": "Short Course",
-    "text": "Short Course\n\n\n  \n\n\n\nSHORT COURSE\n\n\nGeneralized Mixed Models: Basics and New Frontiers\n\n\nInstructor: Benjamin Bolker McMaster University\n\n Learn More"
+    "text": "Short Course\n\n\n  \n\n\n\nSHORT COURSE\n\n\nGeneralized Mixed Models: Basics and New Frontiers\n\n\nInstructor: Benjamin Bolker\n\nMcMaster University\n\n\n Learn More"
   },
   {
     "objectID": "index.html#keynote-speakers",
@@ -200,6 +200,6 @@
     "href": "program/keynotes_info/keynote_staicu.html#short-bio",
     "title": "\nAna-Maria Staicu\n",
     "section": "Short bio",
-    "text": "Short bio\nThis information will be incorporated as soon as possible."
+    "text": "Short bio\nAna-Maria Staicu is Professor of Statistics at North Carolina State University and an elected Fellow of the American Statistical Association. She serves as Lead Program Director of the NIH/NHLBI Integrated Biostatistical Training for Cardiovascular Disease Research Program, a joint training initiative involving North Carolina State University, Duke Biostatistics & Bioinformatics, and the Duke Clinical Research Institute (DCRI). She is also a member of the Executive Committee and Board of Trustees of the National Institute of Statistical Sciences. Dr. Staicu is a University Faculty Scholar and recipient of the NSF CAREER Award.\nDr. Staicu’s research develops innovative statistical methods for analyzing complex, high-dimensional data arising from modern scientific studies. Her work has advanced the analysis of functional, longitudinal, and spatially indexed data, with applications spanning biomedical imaging, neurological disease, cancer screening, robotic prosthetics, social media analytics, and environmental health. By developing principled tools for modeling, inference, and prediction, she has helped researchers extract meaningful scientific insights from increasingly complex data sources, including medical imaging, electronic health records, genomics, longitudinal cohort studies, and digital platforms. Her contributions have been recognized through numerous awards and leadership roles, and her research continues to shape the development of statistical methodology for emerging data-intensive scientific challenges."
   }
 ]
